@@ -1,6 +1,6 @@
 ### Exploratory Data Project 2
 
-There are four scripts and four png files in github reposiroty 
+There are six scripts and six png files in github reposiroty 
 
     
 
